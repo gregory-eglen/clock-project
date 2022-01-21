@@ -1,7 +1,3 @@
----
-permalink: /README/
-title: Project 1: Clock in C++
----
 
 # Project 1: Clock in C++
 
